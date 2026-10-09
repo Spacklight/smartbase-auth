@@ -1,5 +1,5 @@
 {
-  "name": "email",
+  "name": "smartbase-auth",
   "main": "src/index.js",
   "compatibility_date": "2026-10-01",
   "assets": {
@@ -11,7 +11,7 @@
     {
       "binding": "DB",
       "database_name": "smartbase-db",
-      "database_id": "eaa0820e-e491-42f3-bb6f-afd6419aa3fb"
+      "database_id": "13db2347-3b24-41b2-a972-e861a8c11fad"
     }
   ]
 }
